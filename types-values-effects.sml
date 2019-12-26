@@ -1,4 +1,4 @@
-(* Types, Values, and Effects *)
+(* Chapter 32 - Types, Values, and Effects *)
 
 3;
 3 + 4;

@@ -1,4 +1,4 @@
-(* Functions! *)
+(* Chapter 4 - Functions *)
 
 (* Binding of lambda, or anonymous, function to the name fourthroot *)
 val fourthroot : real -> real =

@@ -1,3 +1,4 @@
+(* Chapter 5 - Products and Records *)
 (*  No concept of allocation / deallocation from the developers perspective *)
 
 (* Lets kick it off with the tuple! *)

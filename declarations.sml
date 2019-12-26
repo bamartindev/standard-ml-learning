@@ -1,3 +1,4 @@
+(* Chapter 3 - Declarations *)
 (* Variables *)
 
 (* Once a variable is bound, it is bound for life - no changing! *)
